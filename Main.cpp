@@ -28,7 +28,7 @@ out vec4 colour;                                                      \n\
 					                                                  \n\
 void main()                                                           \n\
 {                                                                     \n\
-	colour = vec4(1.0, 0.0, 0.0, 1);                                \n\
+	colour = vec4(1.0, 0.0, 0.0, 1);                                  \n\
 }";
 
 void CreateTriangle()
